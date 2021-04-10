@@ -16,6 +16,8 @@
     "skipLibCheck": true,
     "allowSyntheticDefaultImports": true,
     "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
     "forceConsistentCasingInFileNames": true,
     "resolveJsonModule": true,
     "noEmit": true
